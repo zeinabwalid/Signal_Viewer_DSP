@@ -8,7 +8,7 @@
 
 # **`OUTPUT`**
 ### **`The final view of the program.`**
-![](program_1.png)
+![](Program_1.PNG)
 
 
 
